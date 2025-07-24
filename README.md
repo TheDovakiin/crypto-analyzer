@@ -40,7 +40,7 @@ crypto-analyzer/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/kgabeci/crypto-analyzer.git
+   git clone https://github.com/TheDovakiin/crypto-analyzer.git
    cd crypto-analyzer
    ```
 

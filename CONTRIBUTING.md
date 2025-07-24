@@ -32,7 +32,7 @@ We welcome feature requests! When suggesting enhancements:
 2. **Clone your fork:**
 
    ```bash
-   git clone https://github.com/kgabeci/crypto-analyzer.git
+   git clone https://github.com/TheDovakiin/crypto-analyzer.git
    cd crypto-analyzer
    ```
 
