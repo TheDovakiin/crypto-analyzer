@@ -155,7 +155,7 @@ When contributing to this project, please update the changelog by adding a new e
 
 ## Links
 
-- [GitHub Repository](https://github.com/yourusername/crypto-analyzer)
-- [Documentation](https://github.com/yourusername/crypto-analyzer#readme)
-- [Issues](https://github.com/yourusername/crypto-analyzer/issues)
-- [Releases](https://github.com/yourusername/crypto-analyzer/releases)
+- [GitHub Repository](https://github.com/kgabeci/crypto-analyzer)
+- [Documentation](https://github.com/kgabeci/crypto-analyzer#readme)
+- [Issues](https://github.com/kgabeci/crypto-analyzer/issues)
+- [Releases](https://github.com/kgabeci/crypto-analyzer/releases)
